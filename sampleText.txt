@@ -1,6 +1,7 @@
 ******************************
 Hello this is a sample file.
 Hello World!!
-This is me 
+This is me
+My name is Harry
 End of file
 *******************************
