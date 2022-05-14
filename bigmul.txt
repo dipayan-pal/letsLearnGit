@@ -1,0 +1,4 @@
+**********************************
+This is a big Mul algorithm
+Structures supported are 16 / 32 bit architecture
+**********************************
